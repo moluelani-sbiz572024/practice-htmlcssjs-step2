@@ -1,4 +1,4 @@
-# HTML/CSS/JS 練習問題
+# HTML/CSS/JS 練習問題 - STEP2
 
 ## 概要
 
